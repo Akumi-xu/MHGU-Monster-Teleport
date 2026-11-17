@@ -1,0 +1,6 @@
+/target/
+/dist/
+*.nro
+*.so
+*.zip
+__pycache__/
