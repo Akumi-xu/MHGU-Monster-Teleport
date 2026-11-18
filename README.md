@@ -1,12 +1,12 @@
 # MHGU Monster Teleport / 大怪区域传送 v0.1.0
 
-PC MHGURecomp 离线单人大怪区域传送 MOD。地面待机或移动时按 **L + R + 方向键上**，前往第一个存活大型怪物所在区域的原生入口。长按只触发一次，松开后可再次使用；已经同区时不重新加载。
+Recomp 离线单人大怪区域传送 MOD。地面待机或移动时按 **L + R + 方向键上**，前往第一个存活大型怪物所在区域的原生入口。长按只触发一次，松开后可再次使用；已经同区时不重新加载。
 
 当前开发机键盘绑定为 **Q + E + ↑**；自定义键位时使用自己的 L、R、方向键上绑定。
 
 ## 下载与安装
 
-- [下载 PC v0.1.0 安装包](https://github.com/Akumi-xu/MHGU-Monster-Teleport/releases/download/v0.1.0/MHGU_PC_Monster_Teleport_v0.1.0.zip)
+- [下载 Recomp v0.1.0 安装包](https://github.com/Akumi-xu/MHGU-Monster-Teleport/releases/download/v0.1.0/MHGU_Monster_Teleport_v0.1.0-Recomp.zip)
 - [v0.1.0 发布页](https://github.com/Akumi-xu/MHGU-Monster-Teleport/releases/tag/v0.1.0)
 
 1. 在游戏目录 `mods/` 下新建 `MONSTER_TELEPORT/`。
